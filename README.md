@@ -23,7 +23,7 @@
 </span>
 
 
- <p align="center">
+
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556499905665957909
                             )](https://discord.com/users/556499905665957909)
 
