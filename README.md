@@ -1,4 +1,4 @@
-<h1 align="center"> Jealeus</h1>
+<h1 align="center"> KARABATAK</h1>
 <p align="center">
  <a href="https://discord.com/users/556499905665957909" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/KARABATAKdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
