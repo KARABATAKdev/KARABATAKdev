@@ -16,10 +16,9 @@
 
 ##
 <span> 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556499905665957909
-                            )](https://discord.com/users/556499905665957909)
- 
  <p align="center">
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556499905665957909
+                            )](https://discord.com/users/556499905665957909)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KARABATAKdev&show_icons=true&theme=radical" width="%100" height="200px"
 </p>
 </span>
