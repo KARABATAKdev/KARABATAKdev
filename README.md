@@ -16,6 +16,8 @@
 <a href="https://steamcommunity.com/profiles/76561199138028718" target"blank_"><img src="https://img.shields.io/badge/steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KARABATAK" alt="KARABATAK" /> </p>
+<br>
+</p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556499905665957909)](https://discord.com/users/556499905665957909)
 
