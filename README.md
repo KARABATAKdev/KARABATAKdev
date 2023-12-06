@@ -19,7 +19,7 @@
 
 <h3 align="center">GitHub İstatistiğim :</h3>
 <p align="center">
-<a href="https://github.com/KARABATAKdev" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?KARABATAK&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
+<a href="https://github.com/KARABATAKdev" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=KARABATAK&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/556499905665957909)](https://discord.com/users/556499905665957909)
