@@ -11,10 +11,10 @@
 <br />
 <h3>Kişisel Hesaplarım:</h3>
 <p align="left">
- <a align="center" href="https://discord.com/users/1143638421257072661" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/aresxrd" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a align="center" href="https://open.spotify.com/user/31n6of2t24a64gpm2lk3izquagju?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/aresxrd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a align="center" href="https://discord.com/users/556499905665957909" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a align="center" href="https://github.com/KARABATAKdev" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a align="center" href="https://open.spotify.com/intl-tr/artist/7dhQxHNHi8vxcrYPD9vQOc?si=LORhPzkWQq6EELnv3gDcIg&nd=1&dlsi=cb771c2351ca4cda" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a align="center" href="https://www.instagram.com/k.arabatak.priv/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <p href="center"> <img src="https://komarev.com/ghpvc/?username=KARABATAK" alt="KARABATAK" /> </p>
 <br>
